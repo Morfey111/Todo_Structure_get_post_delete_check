@@ -1,0 +1,20 @@
+{
+  "posts": [
+    {
+      "day": "ajajajaj",
+      "task": "maaamam",
+      "completed": false,
+      "id": 1
+    },
+    {
+      "day": "test day",
+      "task": "test task",
+      "completed": false,
+      "id": 2
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
